@@ -11,7 +11,8 @@ This is a project based on the 2018 RecSys Challenge, the focus of which was mus
 ### Dataset Example:
 A sample of the data in the aforementioned dataset can be seen below:
 
-`{
+`
+{
         "name": "musical",
         "collaborative": "false",
         "pid": 5,
@@ -66,4 +67,5 @@ A sample of the data in the aforementioned dataset can be seen below:
             }
         ],
 
-    }`
+    }
+    `
