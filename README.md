@@ -1,4 +1,4 @@
-# Song Recommendation System Master's Project
+# Song Recommendation System Master's Project - IN PROGRESS
 **Isidora Conic, Northeastern University MSCS Graduate Student**
 
 **Supervisor: Craig Martell**
